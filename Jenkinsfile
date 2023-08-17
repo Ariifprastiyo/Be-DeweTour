@@ -1,4 +1,4 @@
-def branch = "production"
+def branch = "staging"
 def repo = "git@github.com:Ariifprastiyo/Be-DeweTour.git"
 def cred = "dewetour"
 def dir = "~/DeweTour-BE-Golang-gin"
